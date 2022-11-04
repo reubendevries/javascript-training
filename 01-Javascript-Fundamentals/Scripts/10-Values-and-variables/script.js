@@ -1,54 +1,26 @@
-/*
 let js = 'amazing';
-console.log(40 + 23 + 8 - 10);
-console.log('Jonas')
+console.log(40 + 8 + 23 - 10);
+
+console.log('Jonas');
 console.log(23);
-let firstName = 'Jonas';
+
+let firstName = "Matilda";
+
+console.log(firstName);
+console.log(firstName);
 console.log(firstName);
 
-const country = 'Canada';
-const continent = 'North America';
-let population = 38.01;
-const isIsland = false;
-const language = 'English';
+// Variable name conventions
+let jonas_matilda = 'JM';
+let $function = 27;
 
-console.log(country);
-console.log(continent);
-console.log(population);
-console.log(isIsland);
-console.log(language);
+let person = 'jonas';
+let PI = 3.1415
 
-let javascriptIsFun = true;
+let myfirstJob = 'Programmer';
+let myCurrentJob = 'Teacher';
 
-console.log(javascriptIsFun);
+let job1 = 'programmer';
+let job2 = 'teacher';
 
-console.log(typeof true);
-console.log(typeof javascriptIsFun);
-console.log(typeof 23);
-console.log(typeof 'Jonas');
-
-javascriptIsFun = 'YES!';
-console.log(typeof javascriptIsFun);
-
-let year;
-console.log(year);
-console.log(typeof year);
-
-year = 1991;
-console.log(typeof year);
-
-let age = 30;
-age = 31;
-
-const birthYear = 1991;
-birthYear = 1990;
-
-
-// Operators
-
-
-
-*/
-const now = 2037;
-const ageJonas = now - 1991;
-const ageSarah = now - 2018;
+console.log(myfirstJob);
